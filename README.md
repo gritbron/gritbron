@@ -5,7 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- -1 уник
+- 0 free learn
+- 1  ~контесты
+- 2 петсы
 <!---
 gritbron/gritbron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
